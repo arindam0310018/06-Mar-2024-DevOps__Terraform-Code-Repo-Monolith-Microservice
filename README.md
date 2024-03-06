@@ -40,7 +40,7 @@ In this Session, I will explain __Terraform code repository structure: Monolith 
 | 1. In simple terms, it means multiple repositories under Azure DevOps Project. |
 | 2. Each repository contains Terraform Module per Azure Service. | 
 | 3. Reference screenshot follows below:- |
-| - |
+| ![3](https://github.com/arindam0310018/06-Mar-2024-DevOps__Terraform-Code-Repo-Monolith-Microservice/assets/29681063/dd6aa83f-fb88-4158-84cb-21acb7bf5473) |
 
 All the above identified problem statements in Monolith Code Repository is resolved with Microservice based code repository.
 
