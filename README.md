@@ -44,7 +44,7 @@ In this Session, I will explain __Terraform code repository structure: Monolith 
 
 All the above identified problem statements in Monolith Code Repository is resolved with Microservice based code repository.
 
-| __Microservice based code repository :-__ |
+| __Mitigating Monolith based code repository problem statements with Microservice based code repository:-__ |
 | --------- |
 | 1. Each time the Pipeline runs, it checks out only the relevant repositories. | 
 | 2. Pipeline execution is fast/not impacted because it checks out only the relevant repositories. |
