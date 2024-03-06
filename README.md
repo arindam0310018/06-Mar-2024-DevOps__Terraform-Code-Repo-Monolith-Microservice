@@ -8,10 +8,6 @@ In this Session, I will explain __Terraform code repository structure: Monolith 
 | --------- |
 | I thank @pwd9000 and @anandarbone for collaborating. Though I am publishing this Article, but both of them have the equal rights to republish and repost. |
 
-| __CODE REPOSITORY:-__ |
-| --------- |
-| {% github arindam0310018/06-Mar-2024-DevOps__Terraform-Code-Repo-Monolith-Microservice %} |
-
 | __CONSIDERATIONS:-__ |
 | --------- |
 | For the purpose of this article, I/We have considered below:- |
